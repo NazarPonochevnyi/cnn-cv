@@ -1,6 +1,5 @@
 """ Convolutional Neural Network.
-Build and train a convolutional neural network with TensorFlow.
-(http://yann.lecun.com/exdb/mnist/)
+Build and uses a convolutional neural network with TensorFlow.
 """
 
 from __future__ import division, print_function, absolute_import
